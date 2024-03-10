@@ -1,0 +1,20 @@
+.header_div{
+    background-color: rgb(247, 162, 196);
+    color:white;
+    margin-bottom: 10px;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.copy_right_footer{
+    width: 100%;
+    background-color: lightgray;
+    position: fixed;
+    color: rgb(75, 94, 75);
+    bottom: 0;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(66, 66, 193);
+}
